@@ -13,33 +13,21 @@ h1 {
   font-style: italic;
   color: #373fff;
 }
-button {
-  width:5%;
-  position: absolute;
-  padding: 0;
-  margin: 0;
-  vertical-align: top;
-}
 
-/* #checkoutCart img {
+ #checkoutCart img {
   height: 30px;
   width: 30px;
   display: block;
-  background-color:transparent;
-} */
-button {
+  
+} 
+/* button {
     display: inline-block;
     height: 134px;
     padding: 0;
     margin: 0;
     vertical-align: top;
     width: 104px;
-}
-#close-image img {
-    display: block;
-    height: 130px;  
-    width: 100px;
-}
+} */
 
 .nav-link-border {
   height: 22px;
@@ -51,7 +39,7 @@ button {
   word-spacing : 3mm;
   padding : 5px;
 }
-.pimg1 {
+.pimg1, .pimg2{
     
     /*opacity:0.70;*/
     position: relative;
@@ -67,7 +55,11 @@ button {
   } 
 .pimg1 {
   min-height : 100%;
-  background-image: url("https://cdn.britannica.com/10/152310-050-5A09D74A/Sand-dunes-Sahara-Morocco-Merzouga.jpg") ;
+  background-image: url("https://cdn.theatlantic.com/thumbor/kD0aIO2oVWaqbhLNugjLRl6WLDw=/720x405/media/img/mt/2019/07/Characters3_2/original.jpg") ;
+}
+.pimg2 {
+  min-height : 100%;
+  background-image: url("https://usercontent1.hubstatic.com/8975906.jpg");
 }
 .left-side {
   display:flex;
@@ -78,14 +70,16 @@ padding: 10px 0;
 }
 .left-side a{
   text-decoration : none;
-  color : #e1b382;
+  color : teal;
+/*   color : #e1b382; */
 }
 .left-side a:hover{
   text-decoration : underline;
-  color: blue;
+  color: white;
 }
 .current-link a{
-  color : #c89666;
+  color: blue;
+/*   color : #c89666; */
 }
 .nav-border {
   position: absolute;
@@ -98,9 +92,7 @@ padding: 10px 0;
   text-transform: uppercase;
   font-size: 0.9rem;
 } */
-/* .pimg2 {
-  background-image: url("https://ca-times.brightspotcdn.com/dims4/default/ee45bed/2147483647/strip/true/crop/3563x2375+0+0/resize/1486x991!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F24%2F98%2F67b7fc894dfa8c7d913fb49fae51%2Fapphoto-mets-padres-baseball2.JPG");
-} */
+
 @media(max-width:568px){
     .pimg1 .pimg2 .pimg3{
       background-attachment:scroll;
