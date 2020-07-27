@@ -9,9 +9,9 @@ h1 {
   font-style: italic;
   color: #373fff;
 }
-input {
+.checkoutCart input {
   width:5%;
-  
+  position: absolute;
 }
 
 .nav-link-border {
@@ -23,6 +23,10 @@ input {
     text-decoration: none;
   word-spacing : 3mm;
   padding : 5px;
+}
+.pimg1 {
+  min-height : 100%;
+  background-image: url("https://www.nbcsports.com/washington/sites/csnma/files/2019/04/26/mannymachadousat.png");
 }
 .left-side {
   display:flex;
