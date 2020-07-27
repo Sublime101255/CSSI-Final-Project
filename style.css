@@ -21,6 +21,9 @@ h1 {
   display: block;
   
 } 
+.logo {
+  position:fixed;top: 10px;left:10px
+}
 /* button {
     display: inline-block;
     height: 134px;
