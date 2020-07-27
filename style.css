@@ -86,6 +86,10 @@ padding: 10px 0;
   color:white;
   background-color: grey;
   height:3cm;
+  text-align:center;
+}
+.headText{
+  text-size: 30px;
 }
 .nav-border {
   position: absolute;
