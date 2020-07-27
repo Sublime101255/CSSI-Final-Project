@@ -9,6 +9,7 @@ body, html{
     line-height:1.8em;
     color:#FFC72C ;
   }
+
 h1 {
   font-style: italic;
   color: #373fff;
@@ -80,6 +81,11 @@ padding: 10px 0;
 .current-link a{
   color: blue;
 /*   color : #c89666; */
+}
+.sectionBorder1 {
+  color:white;
+  background-color: teal;
+  height:3cm;
 }
 .nav-border {
   position: absolute;
