@@ -9,6 +9,10 @@ h1 {
   font-style: italic;
   color: #373fff;
 }
+input {
+  width:5%;
+  
+}
 
 .nav-link-border {
   height: 22px;
@@ -17,21 +21,26 @@ h1 {
     font-size: 20px;
     font-weight: 400;
     text-decoration: none;
+  word-spacing : 3mm;
+  padding : 5px;
 }
 .left-side {
   display:flex;
-  
+  padding: 5px 5px;
+/*   margin: 20px 0 0 ;
+padding: 10px 0;
+ */
 }
 .left-side a{
   text-decoration : none;
-  color : grey;
+  color : #e1b382;
 }
 .left-side a:hover{
   text-decoration : underline;
   color: blue;
 }
-.current-link {
-  color : purple ;
+.current-link a{
+  color : #c89666;
 }
 .nav-border {
   position: absolute;
