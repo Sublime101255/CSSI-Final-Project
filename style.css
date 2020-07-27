@@ -9,10 +9,20 @@ h1 {
   font-style: italic;
   color: #373fff;
 }
-.checkoutCart input {
+button {
   width:5%;
   position: absolute;
+  padding: 0;
+  margin: 0;
+  vertical-align: top;
 }
+
+#checkoutCart img {
+  height: 30px;
+  width: 30px;
+  display: block;
+}
+
 
 .nav-link-border {
   height: 22px;
@@ -24,6 +34,20 @@ h1 {
   word-spacing : 3mm;
   padding : 5px;
 }
+.pimg1 {
+    
+    /*opacity:0.70;*/
+    position: relative;
+    background-position:center center;
+    background-size: cover;
+    background-repeat:no-repeat;
+  background-color: black;
+    /*
+      fixed = parallax
+      scroll = normal
+    */
+    background-attachment:fixed;
+  } 
 .pimg1 {
   min-height : 100%;
   background-image: url("https://www.nbcsports.com/washington/sites/csnma/files/2019/04/26/mannymachadousat.png");
