@@ -21,12 +21,25 @@ button {
   vertical-align: top;
 }
 
-#checkoutCart img {
+/* #checkoutCart img {
   height: 30px;
   width: 30px;
   display: block;
+  background-color:transparent;
+} */
+button {
+    display: inline-block;
+    height: 134px;
+    padding: 0;
+    margin: 0;
+    vertical-align: top;
+    width: 104px;
 }
-
+#close-image img {
+    display: block;
+    height: 130px;  
+    width: 100px;
+}
 
 .nav-link-border {
   height: 22px;
