@@ -9,7 +9,16 @@ h1 {
   font-style: italic;
   color: #373fff;
 }
-
+button {
+  
+}
+.nav-link-border {
+  word-spacing : 3mm;
+}
+.left-side {
+  display:flex;
+  
+}
 .left-side a{
   text-decoration : none;
   color : grey;
@@ -18,3 +27,14 @@ h1 {
   text-decoration : underline;
   color: blue;
 }
+.nav-border {
+  position: absolute;
+  padding: 35px;
+  z-index: 1;
+  overflow: auto;
+}
+/* .nav-border > .left-side > div {
+  margin-right: 20px;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+} */
