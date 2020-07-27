@@ -1,4 +1,4 @@
-function myFunction()
+function cartFunction()
 {
- window.location = "https://www.google.com";
+ window.location = "cart.html";
 }
