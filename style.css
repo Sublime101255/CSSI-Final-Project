@@ -13,6 +13,7 @@ body, html{
 h1 {
   font-style: italic;
   color: #373fff;
+  padding: 30px;
 }
 
  #checkoutCart img {
@@ -64,7 +65,7 @@ h1 {
 }
     .pimg2 {
   min-height : 125%;
-  background-image: url("https://i.insider.com/564cc42e2491f99d008b63b7?width=1136&format=jpeg");
+  background-image: url("https://nationalpostcom.files.wordpress.com/2013/11/calvin-hobbes.jpg?quality=100&strip=all&w=642");
 }
 .left-side {
   display:flex;
@@ -82,8 +83,8 @@ padding: 10px 0;
   position:absolute;top: 40%; left: 40%;
   font-size: 50px;
   font-weight:400;
-  font-family: "CustomFont";
-src: url("E-BrantScript.ttf");
+  color: #896d58;
+  
 }
 .left-side a:hover{
   text-decoration : underline;
