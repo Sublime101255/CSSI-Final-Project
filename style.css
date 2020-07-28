@@ -59,9 +59,9 @@ h1 {
   } 
 .pimg1 {
   min-height : 100%;
-  background-image: url("https://cdn.glitch.com/bc2b3edf-253e-43f1-aeee-ad47b1a45520%2FScreen%20Shot%202020-07-27%20at%204.08.21%20PM.png?v=1595911874455") ;
+  background-image: url("https://images.theconversation.com/files/249708/original/file-20181210-76977-143h6ep.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip");
 }
-.pimg2 {
+    .pimg2 {
   min-height : 125%;
   background-image: url("https://cdn.glitch.com/bc2b3edf-253e-43f1-aeee-ad47b1a45520%2FFree_Sample_By_Wix?v=1595891583169");
 }
