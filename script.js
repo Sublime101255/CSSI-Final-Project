@@ -1,3 +1,4 @@
+
 function cartFunction()
 {
  window.location = "cart.html";
@@ -21,6 +22,7 @@ var peopleHate = ["abby","marissa","bella","penelope","tarzan"];
 var full = []
 for (var i = 0; i <= peopleLike.length; i++){
 for (var j = 0; j <= peopleHate.length; i++){
-full.push(peopleLike[i] + peopleHate)
+full.push(peopleLike[i] + peopleHate[j])
 }
 }
+concccddkdkmmnnn
