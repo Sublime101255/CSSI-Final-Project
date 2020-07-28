@@ -29,9 +29,9 @@ function cartFunction()
 
 //cart function
 
-var x = timmyTurner
-function addFunction(){
-  addedItems.push()
-}
-var addedItems = []
-if ()
+// var x = timmyTurner
+// function addFunction(){
+//   addedItems.push()
+// }
+// var addedItems = []
+// if ()
