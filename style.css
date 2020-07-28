@@ -78,7 +78,11 @@ padding: 10px 0;
 /*   color : #e1b382; */
 }
 #frontText {
-  position:absolute;top: 400px;left:400px
+  position:absolute;top: 50%; left: 50%;
+  font-size: 50px;
+  font-weight:400;
+  font-family: "CustomFont";
+src: url("E-BrantScript.ttf");
 }
 .left-side a:hover{
   text-decoration : underline;
