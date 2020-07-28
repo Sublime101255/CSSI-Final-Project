@@ -1,5 +1,94 @@
+/* CSS files add styling rules to your content */
+
 h1 {
-  font-style: italic;
   text-align: center;
+  font-style: italic;
   padding-top: 20%;
+/*   want to add box around new items  */
 }
+
+.nav-link-border {
+  height: 22px;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 0.5s;
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: none;
+  word-spacing : 3mm;
+  padding : 5px;
+}
+.pimg1, .pimg2{
+    
+    /*opacity:0.70;*/
+    position: relative;
+    background-position:center center;
+    background-size: cover;
+    background-repeat:no-repeat;
+  background-color: black;
+    /*
+      fixed = parallax
+      scroll = normal
+    */
+    background-attachment:fixed;
+  } 
+.pimg1 {
+  min-height : 100%;
+  background-image: url("https://images.theconversation.com/files/249708/original/file-20181210-76977-143h6ep.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip");
+}
+    .pimg2 {
+  min-height : 125%;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbeaK5DLRmaIAI9-eBidcoAubvuHIBFICsFw&usqp=CAU");
+}
+.left-side {
+  display:flex;
+  padding: 5px 5px;
+/*   margin: 20px 0 0 ;
+padding: 10px 0;
+ */
+}
+.left-side a{
+  text-decoration : none;
+  color : #567d46;
+/*   color : #e1b382; */
+}
+#frontText {
+  position:absolute;top: 50%; left: 50%;
+  font-size: 50px;
+  font-weight:400;
+  font-family: "CustomFont";
+src: url("E-BrantScript.ttf");
+}
+.left-side a:hover{
+  text-decoration : underline;
+  color: #feb950;
+}
+.current-link a{
+  color: #704700;
+/*   color : #c89666; */
+}
+.sectionBorder1 {
+  color:white;
+  background-color: grey;
+  height:3cm;
+  text-align:center;
+}
+.headText{
+  text-size: 30px;
+}
+.nav-border {
+  position: absolute;
+  padding: 35px;
+  z-index: 1;
+  overflow: auto;
+}
+/* .nav-border > .left-side > div {
+  margin-right: 20px;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+} */
+
+@media(max-width:568px){
+    .pimg1 .pimg2 .pimg3{
+      background-attachment:scroll;
+    }
+  }
