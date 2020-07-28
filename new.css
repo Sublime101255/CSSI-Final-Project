@@ -112,9 +112,8 @@ src: url("E-BrantScript.ttf");
   top: 35%;
   font-family: italic;
 }
-img{
-  top: 20%;
+
+.item1pic img{
   height: 150px;
   width: 150px;
-/*   display: block; */
 }
