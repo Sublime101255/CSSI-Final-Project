@@ -22,7 +22,19 @@ h1 {
     vertical-align: top;
     width: 104px;
 } */
-
+.category{
+  font-size:40px;
+  font-weight:500;
+  
+}
+#cartDiv{
+  position:absolute;top: 10%; left: 4%;
+  font-size: 40px;
+  font-weight:300;
+  font-family: san-serif;
+  color: black;
+  
+}
 .nav-link-border {
   height: 22px;
   border-bottom: 1px solid transparent;
@@ -32,6 +44,7 @@ h1 {
   text-decoration: none;
   word-spacing: 3mm;
   padding: 5px;
+  position: relative;
 }
 .pimg1,
 .pimg2 {
