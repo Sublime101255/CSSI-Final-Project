@@ -3,6 +3,10 @@ function cartFunction()
 {
  window.location = "cart.html";
 }
+var element = document.getElementById("move.Friend").src;
+if (9>20){
+    element.innerHTML = "";
+}
 // var matchFound = false;
 // var numElements = goodTeams.length;
 // var teamCheck = "chiefs";
