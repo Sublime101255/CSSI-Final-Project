@@ -112,6 +112,9 @@ src: url("E-BrantScript.ttf");
   top: 35%;
   font-family: italic;
 }
-.item1pic{
-  background-image: url(https://cdn.glitch.com/bc2b3edf-253e-43f1-aeee-ad47b1a45520%2Ftimmy.png?v=1595965980993);
+img{
+  top: 20%;
+  height: 150px;
+  width: 150px;
+/*   display: block; */
 }

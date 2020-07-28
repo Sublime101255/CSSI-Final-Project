@@ -28,10 +28,10 @@ h1 {
   
 }
 #cartDiv{
-  position:absolute;top: 10%; left: 4%;
-  font-size: 40px;
-  font-weight:300;
-  font-family: san-serif;
+  position:absolute;top: 15%; left: 3.9%;
+  font-size: 24px;
+  font-weight:700;
+  font-family: Ariel,sans-serif;
   color: black;
   
 }

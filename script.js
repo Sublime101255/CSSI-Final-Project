@@ -26,3 +26,12 @@ function cartFunction()
 // }
 // }
 // console.log(full)
+
+//cart function
+
+var x = timmyTurner
+function addFunction(){
+  addedItems.push()
+}
+var addedItems = []
+if ()
