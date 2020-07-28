@@ -59,11 +59,11 @@ h1 {
   } 
 .pimg1 {
   min-height : 100%;
-  background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/imaginary-friend-index-1565377994.png?crop=0.502xw:1.00xh;0.228xw,0&resize=480:*") ;
+  background-image: url("https://cdn.glitch.com/bc2b3edf-253e-43f1-aeee-ad47b1a45520%2FScreen%20Shot%202020-07-27%20at%204.08.21%20PM.png?v=1595911874455") ;
 }
 .pimg2 {
   min-height : 125%;
-  background-image: url("https://usercontent1.hubstatic.com/8975906.jpg");
+  background-image: url("https://cdn.glitch.com/bc2b3edf-253e-43f1-aeee-ad47b1a45520%2FFree_Sample_By_Wix?v=1595891583169");
 }
 .left-side {
   display:flex;
