@@ -28,10 +28,10 @@ function cartFunction()
 // console.log(full)
 
 //cart function
-
-// var x = timmyTurner
+// var addedItems = []
+// var t = timmyTurner
 // function addFunction(){
 //   addedItems.push()
 // }
-// var addedItems = []
+
 // if ()
