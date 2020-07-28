@@ -78,15 +78,7 @@ padding: 10px 0;
 /*   color : #e1b382; */
 }
 #frontText {
-    margin: 0;
-    background: yellow;
-    position: relative;
-    top: 100%;
-    left: 100%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%)
-    
-  
+  position:absolute;top: 400px;left:400px
 }
 .left-side a:hover{
   text-decoration : underline;
