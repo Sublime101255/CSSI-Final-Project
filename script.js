@@ -25,4 +25,4 @@ for (var j = 0; j <= peopleHate.length; i++){
 full.push(peopleLike[i] + peopleHate[j])
 }
 }
-concccddkdkmmnnn
+// console.log(full)
