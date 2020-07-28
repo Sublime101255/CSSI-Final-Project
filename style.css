@@ -74,15 +74,15 @@ padding: 10px 0;
 }
 .left-side a{
   text-decoration : none;
-  color : teal;
+  color : #567d46;
 /*   color : #e1b382; */
 }
 .left-side a:hover{
   text-decoration : underline;
-  color: white;
+  color: #feb950;
 }
 .current-link a{
-  color: blue;
+  color: #704700;
 /*   color : #c89666; */
 }
 .sectionBorder1 {
