@@ -63,7 +63,7 @@ h1 {
 }
     .pimg2 {
   min-height : 125%;
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbeaK5DLRmaIAI9-eBidcoAubvuHIBFICsFw&usqp=CAU");
+  background-image: url("https://www.nationwidechildrens.org/-/media/nch/700childrens/2015/11/blog-imaginary-friends.ashx?w=706&h=470&as=1&bc=ffffff&hash=EB27E98C8BE4AB7DCAA30B98506BF313");
 }
 .left-side {
   display:flex;
@@ -78,7 +78,7 @@ padding: 10px 0;
 /*   color : #e1b382; */
 }
 #frontText {
-  position:absolute;top: 50%; left: 50%;
+  position:absolute;top: 40%; left: 40%;
   font-size: 50px;
   font-weight:400;
   font-family: "CustomFont";
