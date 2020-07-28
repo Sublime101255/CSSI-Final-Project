@@ -2,7 +2,10 @@ function cartFunction()
 {
  window.location = "cart.html";
 }
-var teams = [];
-teams.push("packers","panthers");
-teams.splice(0,1,"patriots", "bears")
-alert(teams[2])
+var teamCheck = "panthers"
+var goodTeams = ["Packers", "patriots", "titans", "chiefs"];
+for  (var i = 0; i <= 3; i++){
+if (teamCheck === goodTeams[i]){
+  alert("You got it")
+} 
+}
