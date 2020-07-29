@@ -17,15 +17,13 @@ h {
   font-family: italic;
   padding-top: 0%;
 }
-text1 {
-  text-align: center;
-  position: fixed;right: 11;
-}
+
 p {
   text-align: center;
   font-family: italic;
   padding-top: 0%;
   color: white;
+  
 }
 
 #checkoutCart img {
