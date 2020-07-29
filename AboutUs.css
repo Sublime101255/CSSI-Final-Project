@@ -9,6 +9,7 @@ html {
   line-height: 1.8em;
   color: white;
   text-align: center;
+  position: relative;top:10px;left:14px;
 }
 
 h {
@@ -16,9 +17,11 @@ h {
   text-align: center;
   font-family: italic;
   padding-top: 0%;
+  
 }
 .text1 {
   text-align: center;
+  
 }
 p {
   text-align: center;
