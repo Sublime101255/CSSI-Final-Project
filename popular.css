@@ -120,7 +120,7 @@ src: url("E-BrantScript.ttf");
 }
 .p4 {
   position: absolute;
-  left: 958px;
+  right: 700px;
   top: 350px;
   font-family: italic;
 }
@@ -132,7 +132,7 @@ src: url("E-BrantScript.ttf");
 }
 .p5 {
   position: absolute;
-  left: 1236px;
+  right: 290px;
   top: 350px;
   font-family: italic;
 }

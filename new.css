@@ -30,28 +30,7 @@ h1 {
   word-spacing : 3mm;
   padding : 5px;
 }
-.pimg1, .pimg2{
-    
-    /*opacity:0.70;*/
-    position: relative;
-    background-position:center center;
-    background-size: cover;
-    background-repeat:no-repeat;
-  background-color: black;
-    /*
-      fixed = parallax
-      scroll = normal
-    */
-    background-attachment:fixed;
-  } 
-.pimg1 {
-  min-height : 100%;
-  background-image: url("https://images.theconversation.com/files/249708/original/file-20181210-76977-143h6ep.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip");
-}
-    .pimg2 {
-  min-height : 125%;
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbeaK5DLRmaIAI9-eBidcoAubvuHIBFICsFw&usqp=CAU");
-}
+/*
 .left-side {
   display:flex;
   padding: 5px 5px;
@@ -108,8 +87,6 @@ src: url("E-BrantScript.ttf");
 
 #item1 {
   position: absolute;
-  left: 100px;
-  top: 35%;
   font-family: italic;
 }
 
@@ -119,13 +96,15 @@ src: url("E-BrantScript.ttf");
 }
 #item2 {
   position: absolute;
-  left: 500px;
-  top: 35%;
   font-family: italic;
 }
 
 .item2pic img {
   height: 150px;
   width: 150px;
-  
 }
+#item2 {
+  position:absolute;
+  font-family: italic;
+}
+
