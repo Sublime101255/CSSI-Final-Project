@@ -118,3 +118,15 @@ src: url("E-BrantScript.ttf");
   width: 150px;
  
 }
+.p4 {
+  position: absolute;
+  left: 958px;
+  top: 350px;
+  font-family: italic;
+}
+
+.pimg4 img {
+  height: 170px;
+  width: 130px;
+ 
+}
