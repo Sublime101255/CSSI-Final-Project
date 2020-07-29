@@ -109,7 +109,7 @@ padding: 10px 0;
 }
 .left-side a:hover {
   text-decoration: underline;
-  color: orange;
+  color: purple;
 }
 .current-link a {
   color: limegreen;
