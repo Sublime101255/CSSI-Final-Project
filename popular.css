@@ -86,8 +86,8 @@ src: url("E-BrantScript.ttf");
 
 .p1 {
   position: absolute;
-  left: 100px;
-  top: 35%;
+  left: 60px;
+  top: 350px;
   font-family: italic;
 }
 
@@ -97,13 +97,13 @@ src: url("E-BrantScript.ttf");
 }
 .p2 {
   position: absolute;
-  left: 500px;
-  top: 35%;
+  left: 380px;
+  top: 350px;
   font-family: italic;
 }
 
 .pimg2 img {
   height: 150px;
   width: 150px;
-  
+ 
 }
