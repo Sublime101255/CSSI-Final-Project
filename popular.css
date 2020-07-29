@@ -97,12 +97,23 @@ src: url("E-BrantScript.ttf");
 }
 .p2 {
   position: absolute;
-  left: 380px;
+  left: 402px;
   top: 350px;
   font-family: italic;
 }
 
 .pimg2 img {
+  height: 150px;
+  width: 170px;
+}
+.p3 {
+  position: absolute;
+  left: 680px;
+  top: 350px;
+  font-family: italic;
+}
+
+.pimg3 img {
   height: 150px;
   width: 150px;
  
