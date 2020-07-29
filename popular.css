@@ -130,3 +130,16 @@ src: url("E-BrantScript.ttf");
   width: 130px;
  
 }
+.p5 {
+  position: absolute;
+  left: 1236px;
+  top: 350px;
+  font-family: italic;
+}
+
+.pimg5 img {
+  height: 170px;
+  width: 130px;
+ 
+}
+

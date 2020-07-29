@@ -7,6 +7,7 @@ html {
   font-family: "Lato", sans-serif;
   font-weight: 400;
   line-height: 1.8em;
+  color: white;
 }
 
 h1 {
@@ -79,7 +80,7 @@ h3 {
 }
 .pimg1 {
   min-height: 100%;
-  background-image: url("https://images.theconversation.com/files/249708/original/file-20181210-76977-143h6ep.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip");
+  background-image: url("https://cdn.glitch.com/bc2b3edf-253e-43f1-aeee-ad47b1a45520%2FAbout%20Background.jpg?v=1596049988037");
 }
 .pimg2 {
   min-height: 125%;
@@ -94,7 +95,7 @@ padding: 10px 0;
 }
 .left-side a {
   text-decoration: none;
-  color: #567d46;
+  color: orange;
   /*   color : #e1b382; */
 }
 #frontText {
@@ -108,10 +109,10 @@ padding: 10px 0;
 }
 .left-side a:hover {
   text-decoration: underline;
-  color: #feb950;
+  color: orange;
 }
 .current-link a {
-  color: #704700;
+  color: limegreen;
   /*   color : #c89666; */
 }
 .sectionBorder1 {
