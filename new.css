@@ -85,26 +85,48 @@ src: url("E-BrantScript.ttf");
     }
   }
 
-#item1 {
+.p1 {
   position: absolute;
   font-family: italic;
 }
-
-.item1pic img{
-  height: 150px;
-  width: 150px;
+.pimg1 img{
+  
 }
-#item2 {
-  position: absolute;
-  font-family: italic;
-}
-
-.item2pic img {
-  height: 150px;
-  width: 150px;
-}
-#item2 {
+.p2 {
   position:absolute;
-  font-family: italic;
 }
 
+.pimg2 img {
+  
+}
+
+.p3 {
+  position: absolute;
+  font-family: italic;
+}
+.pimg3 img{
+  
+}
+.p4 {
+  position:absolute;
+}
+
+.pimg4 img {
+  
+}
+
+.p5 {
+  position: absolute;
+  font-family: italic;
+}
+.pimg5 img{
+  
+}
+.p6 {
+  position:absolute;
+}
+
+.pimg6 img {
+  height: 100px;
+  width: 100px;
+}

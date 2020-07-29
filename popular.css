@@ -87,7 +87,7 @@ src: url("E-BrantScript.ttf");
 .p1 {
   position: absolute;
   left: 60px;
-  top: 350px;
+  top: 450px;
   font-family: italic;
 }
 
@@ -98,7 +98,7 @@ src: url("E-BrantScript.ttf");
 .p2 {
   position: absolute;
   left: 402px;
-  top: 350px;
+  top: 450px;
   font-family: italic;
 }
 
@@ -109,7 +109,7 @@ src: url("E-BrantScript.ttf");
 .p3 {
   position: absolute;
   left: 680px;
-  top: 350px;
+  top: 450px;
   font-family: italic;
 }
 
@@ -121,7 +121,7 @@ src: url("E-BrantScript.ttf");
 .p4 {
   position: absolute;
   right: 700px;
-  top: 350px;
+  top: 450px;
   font-family: italic;
 }
 
@@ -133,7 +133,7 @@ src: url("E-BrantScript.ttf");
 .p5 {
   position: absolute;
   right: 290px;
-  top: 350px;
+  top: 450px;
   font-family: italic;
 }
 
@@ -142,4 +142,5 @@ src: url("E-BrantScript.ttf");
   width: 130px;
  
 }
-
+ 
+https://finalproject6.glitch.me
