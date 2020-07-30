@@ -19,6 +19,27 @@ h1 {
   display: block;
 } 
 
+background {
+  /*opacity:0.70;*/
+  position: relative;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: black;
+  /*
+      fixed = parallax
+      scroll = normal
+    */
+  background-attachment: fixed;
+}
+background {
+  min-height: 100%;
+  background-image: url("https://cdn.glitch.com/bc2b3edf-253e-43f1-aeee-ad47b1a45520%2FNew%20Background.jpg?v=1596140320454");
+}
+@media (max-width: 568px) {
+  background {
+    background-attachment: scroll;
+  }
 
 .nav-link-border {
   height: 22px;

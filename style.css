@@ -65,7 +65,7 @@ h1 {
 }
     .pimg2 {
   min-height : 125%;
-  background-image: url("https://cache.desktopnexus.com/thumbseg/410/410574-bigthumbnail.jpg");
+  background-image: url("https://cdn.glitch.com/bc2b3edf-253e-43f1-aeee-ad47b1a45520%2Fhumphrey-muleba-Cc-CQTUkbH0-unsplash.jpg?v=1596140221293");
 }
 .left-side {
   display:flex;
@@ -85,7 +85,8 @@ padding: 10px 0;
   font-weight:400;
   font-family: "CustomFont";
 src: url("https://cdn.glitch.com/bc2b3edf-253e-43f1-aeee-ad47b1a45520%2FPlayfairDisplay-Regular.ttf?v=1596138829727");
-color :#FFF700;
+color :white;
+  
   
 }
 .left-side a:hover{
@@ -98,7 +99,7 @@ color :#FFF700;
 }
 .sectionBorder1 {
   color:white;
-  background-color: grey;
+  background-color: #8B8989;
   height:3cm;
   text-align:center;
 }
