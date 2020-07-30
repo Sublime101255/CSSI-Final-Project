@@ -19,7 +19,7 @@ h1 {
   display: block;
 } 
 
-background {
+.background {
   /*opacity:0.70;*/
   position: relative;
   background-position: center center;
@@ -32,14 +32,12 @@ background {
     */
   background-attachment: fixed;
 }
-background {
+
+.background {
   min-height: 100%;
   background-image: url("https://cdn.glitch.com/bc2b3edf-253e-43f1-aeee-ad47b1a45520%2FNew%20Background.jpg?v=1596140320454");
 }
-@media (max-width: 568px) {
-  background {
-    background-attachment: scroll;
-  }
+
 
 .nav-link-border {
   height: 22px;
@@ -159,4 +157,10 @@ src: url("E-BrantScript.ttf");
 .pimg8 img {
   height: 100px;
   width: 100px;
+}
+
+@media (max-width: 568px) {
+  .background {
+    background-attachment: scroll;
+  }
 }
