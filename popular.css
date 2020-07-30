@@ -145,13 +145,61 @@ src: url("E-BrantScript.ttf");
 
 .p6 {
   position: absolute;
-  left: 81%;
-  top: 450px;
+  left: 19%;
+  top: 800px;
   font-family: italic;
 }
 
 .pimg6 img {
   height: 170px;
   width: 130px;
+ 
+}
+.p7 {
+  position: absolute;
+  left: 34%;
+  top: 800px;
+  font-family: italic;
+}
+
+.pimg7 img {
+  height: 170px;
+  width: 100px;
+ 
+}
+.p8 {
+  position: absolute;
+  left: 34%;
+  top: 800px;
+  font-family: italic;
+}
+
+.pimg8 img {
+  height: 170px;
+  width: 100px;
+ 
+}
+.p9 {
+  position: absolute;
+  left: 34%;
+  top: 800px;
+  font-family: italic;
+}
+
+.pimg9 img {
+  height: 170px;
+  width: 100px;
+ 
+}
+.p10 {
+  position: absolute;
+  left: 34%;
+  top: 800px;
+  font-family: italic;
+}
+
+.pimg7 img {
+  height: 170px;
+  width: 100px;
  
 }
