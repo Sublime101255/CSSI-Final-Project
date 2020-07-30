@@ -52,7 +52,7 @@ src: url("E-BrantScript.ttf");
 }
 .left-side a:hover{
   text-decoration : underline;
-  color: #feb950;
+  color: #704700;
 }
 .current-link a{
   color: #704700;
