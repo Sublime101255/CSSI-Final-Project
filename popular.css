@@ -169,19 +169,19 @@ src: url("E-BrantScript.ttf");
 }
 .p8 {
   position: absolute;
-  left: 48%;
+  left: 51%;
   top: 800px;
   font-family: italic;
 }
 
 .pimg8 img {
   height: 170px;
-  width: 100px;
+  width: 110px;
  
 }
 .p9 {
   position: absolute;
-  left: 64%;
+  left: 67%;
   top: 800px;
   font-family: italic;
 }

@@ -130,3 +130,12 @@ src: url("E-BrantScript.ttf");
   height: 100px;
   width: 100px;
 }
+
+.p8 {
+  position:absolute;
+}
+
+.pimg8 img {
+  height: 100px;
+  width: 100px;
+}
