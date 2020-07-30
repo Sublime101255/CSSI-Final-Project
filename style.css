@@ -102,9 +102,14 @@ color :white;
   background-color: #8C1717;
   height:5cm;
   text-align:center;
+
+  font-family: "CustomFont";
+src: url("https://cdn.glitch.com/bc2b3edf-253e-43f1-aeee-ad47b1a45520%2FMerriweather-Regular.ttf?v=1596141689204");
 }
 .headText{
-  text-size: 30px;
+
+  font-size:30px
+  
 }
 .nav-border {
   position: absolute;

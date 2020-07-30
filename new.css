@@ -159,6 +159,15 @@ src: url("E-BrantScript.ttf");
   width: 100px;
 }
 
+.p10 {
+  position:absolute;
+}
+
+.pimg10 img {
+  height: 100px;
+  width: 100px;
+}
+
 @media (max-width: 568px) {
   .background {
     background-attachment: scroll;
