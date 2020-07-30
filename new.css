@@ -1,4 +1,3 @@
-/* CSS files add styling rules to your content */
 body, html{
     height:100%;
     margin:0;
@@ -20,9 +19,6 @@ h1 {
 } 
 
 
-
-
-
 .nav-link-border {
   height: 22px;
     border-bottom: 1px solid transparent;
@@ -33,7 +29,7 @@ h1 {
   word-spacing : 3mm;
   padding : 5px;
 }
-/*
+
 .left-side {
   display:flex;
   padding: 5px 5px;
@@ -45,6 +41,9 @@ padding: 10px 0;
   text-decoration : none;
   color : #567d46;
 /*   color : #e1b382; */
+}
+hr {
+  width: 500px;
 }
 #frontText {
   position:absolute;top: 50%; left: 50%;
@@ -90,65 +89,120 @@ src: url("E-BrantScript.ttf");
 
 .p1 {
   position: absolute;
+  left: 16%;
+  top: 450px;
   font-family: italic;
 }
+
 .pimg1 img{
-  
+  height: 150px;
+  width: 150px;
 }
 .p2 {
-  position:absolute;
+  position: absolute;
+  left: 34%;
+  top: 450px;
+  font-family: italic;
 }
 
 .pimg2 img {
-  
+  height: 150px;
+  width: 170px;
 }
-
 .p3 {
   position: absolute;
+  left: 50%;
+  top: 450px;
   font-family: italic;
 }
-.pimg3 img{
-  
+
+.pimg3 img {
+  height: 150px;
+  width: 150px;
+ 
 }
 .p4 {
-  position:absolute;
+  position: absolute;
+  left: 67%;
+  top: 450px;
+  font-family: italic;
 }
 
 .pimg4 img {
-  
+  height: 170px;
+  width: 130px;
+ 
 }
-
 .p5 {
   position: absolute;
+  left: 81%;
+  top: 450px;
   font-family: italic;
 }
-.pimg5 img{
-  
+
+.pimg5 img {
+  height: 170px;
+  width: 130px;
+ 
 }
+
 .p6 {
-  position:absolute;
+  position: absolute;
+  left: 19%;
+  top: 800px;
+  font-family: italic;
 }
 
 .pimg6 img {
-  height: 100px;
-  width: 100px;
+  height: 170px;
+  width: 130px;
+ 
+}
+.p7 {
+  position: absolute;
+  left: 34%;
+  top: 800px;
+  font-family: italic;
 }
 
+.pimg7 img {
+  height: 170px;
+  width: 100px;
+ 
+}
 .p8 {
-  position:absolute;
+  position: absolute;
+  left: 51%;
+  top: 800px;
+  font-family: italic;
 }
 
 .pimg8 img {
-  height: 100px;
-  width: 100px;
+  height: 170px;
+  width: 110px;
+ 
+}
+.p9 {
+  position: absolute;
+  left: 67%;
+  top: 800px;
+  font-family: italic;
 }
 
+.pimg9 img {
+  height: 170px;
+  width: 100px;
+ 
+}
 .p10 {
-  position:absolute;
+  position: absolute;
+  left: 83%;
+  top: 800px;
+  font-family: italic;
 }
 
 .pimg10 img {
-  height: 100px;
+  height: 170px;
   width: 100px;
+ 
 }
-
