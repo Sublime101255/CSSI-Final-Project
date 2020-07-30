@@ -61,7 +61,7 @@ h1 {
   } 
 .pimg1 {
   min-height : 100%;
-  background-image: url("https://images.theconversation.com/files/249708/original/file-20181210-76977-143h6ep.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip");
+  background-image: url("https://cdn.glitch.com/bc2b3edf-253e-43f1-aeee-ad47b1a45520%2Fben-white-4K2lIP0zc_k-unsplash.jpg?v=1596139778517");
 }
     .pimg2 {
   min-height : 125%;
@@ -80,12 +80,12 @@ padding: 10px 0;
 /*   color : #e1b382; */
 }
 #frontText {
-  position:absolute;top: 40%; left: 40%;
+  position:absolute;top: 40%; left: 37%;
   font-size: 60px;
   font-weight:400;
   font-family: "CustomFont";
 src: url("https://cdn.glitch.com/bc2b3edf-253e-43f1-aeee-ad47b1a45520%2FPlayfairDisplay-Regular.ttf?v=1596138829727");
-  color:  #fdfbd3;
+color :#FFF700;
   
 }
 .left-side a:hover{
