@@ -81,9 +81,11 @@ padding: 10px 0;
 }
 #frontText {
   position:absolute;top: 40%; left: 40%;
-  font-size: 50px;
+  font-size: 60px;
   font-weight:400;
-  color: #896d58;
+  font-family: "CustomFont";
+src: url("https://cdn.glitch.com/bc2b3edf-253e-43f1-aeee-ad47b1a45520%2FPlayfairDisplay-Regular.ttf?v=1596138829727");
+  color:  #fdfbd3;
   
 }
 .left-side a:hover{
