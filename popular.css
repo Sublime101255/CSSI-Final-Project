@@ -169,7 +169,7 @@ src: url("E-BrantScript.ttf");
 }
 .p8 {
   position: absolute;
-  left: 34%;
+  left: 48%;
   top: 800px;
   font-family: italic;
 }
@@ -181,7 +181,7 @@ src: url("E-BrantScript.ttf");
 }
 .p9 {
   position: absolute;
-  left: 34%;
+  left: 64%;
   top: 800px;
   font-family: italic;
 }
@@ -193,12 +193,12 @@ src: url("E-BrantScript.ttf");
 }
 .p10 {
   position: absolute;
-  left: 34%;
+  left: 80%;
   top: 800px;
   font-family: italic;
 }
 
-.pimg7 img {
+.pimg10 img {
   height: 170px;
   width: 100px;
  
