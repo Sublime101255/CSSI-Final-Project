@@ -8,6 +8,10 @@ h1 {
   width: 30px;
   display: block;
 }
+hr {
+  width: 500px;
+  
+}
 
 .logo {
   position: fixed;
