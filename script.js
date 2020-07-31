@@ -1,10 +1,15 @@
-
+var x
+x = 9;
 function cartFunction()
 {
  window.location = "cart.html";
 }
-var element = document.getElementById("move.Friend").src;
-if (9>20){
+
+function addHTML(){
+  x++
+}
+var element = document.getElementById("newFriend");
+if (x>9){
     element.innerHTML = "";
 }
 // var matchFound = false;
@@ -21,14 +26,8 @@ if (9>20){
 // if (matchFound === false) {
 // alert("No Match")
 // }
-// var peopleLike = ["kasey","zach","diego","taylor","cole"];
-// var peopleHate = ["abby","marissa","bella","penelope","tarzan"];
-// var full = []
-// for (var i = 0; i <= peopleLike.length; i++){
-// for (var j = 0; j <= peopleHate.length; i++){
-// full.push(peopleLike[i] + peopleHate[j])
-// }
-// }
+
+
 // console.log(full)
 
 //cart function
