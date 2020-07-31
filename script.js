@@ -4,15 +4,19 @@ function cartFunction()
 {
  window.location = "cart.html";
 }
-
-
-var element = document.getElementById("newFriend");
+function Choice () {
+var yes = document.getElementById("yes");
+if (yes.click === true){
+  x = 10;
+}
+}
+var element = document.getElementById("yes");
 if (x>9){
     element.innerHTML = "";
 }
-function newHtml(){
-document.getElementById("newFriend").innerHTML = "";
-}
+// if  newHtml(){
+// x = 10
+// }
 // function newHtml(){
 // document.getElementById("newFriend").innerHTML = return;
 // }
