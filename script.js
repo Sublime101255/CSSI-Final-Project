@@ -2,7 +2,7 @@ x =9
 var x;
   
   var element = document.getElementById("coolHtml");
-if (x<10){
+if (x<8){
     element.innerHTML = "";
 
 
