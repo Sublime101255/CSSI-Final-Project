@@ -10,9 +10,21 @@ function cartFunction()
 // if (x>9){
 //     element.innerHTML = "";
 // }
-function newHtml(){
-document.getElementById("newFriend").innerHTML = new.target;
-}
+// function newHtml(){
+// document.getElementById("newFriend").innerHTML = "";
+// // }
+// function newHtml(){
+// document.getElementById("newFriend").innerHTML = return;
+// }
+
+
+var el = $('#newFriend').detach();
+
+$("#open_menu").click(function(){
+    $(this).append(el);
+});
+
+
 // var matchFound = false;
 // var numElements = goodTeams.length;
 // var teamCheck = "chiefs";
