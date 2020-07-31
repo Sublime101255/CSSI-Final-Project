@@ -4,22 +4,24 @@ function cartFunction()
 {
  window.location = "cart.html";
 }
-function Choice () {
-var yes = document.getElementById("yes");
-if (yes.click === true){
-  x = 10;
-}
-}
-var element = document.getElementById("yes");
+// function Choice () {
+// var yes = document.getElementById("yes");
+// if (yes.click === true){
+//   x = 10;
+// }
+
+var element = document.getElementById("coolHtml");
 if (x>9){
     element.innerHTML = "";
 }
-// if  newHtml(){
+
+// function newHtml(){
 // x = 10
 // }
-// function newHtml(){
-// document.getElementById("newFriend").innerHTML = return;
-// }
+function newHtml(){
+  x+1;
+// document.getElementById("coolHtml").innerHTML = "";
+}
 // $('#newFriend').detach();
 
 // var el = $('#newFriend').detach();
