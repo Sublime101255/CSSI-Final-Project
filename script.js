@@ -1,16 +1,17 @@
-var x
-x = 9;
+// var x
+// x = 9;
 function cartFunction()
 {
  window.location = "cart.html";
 }
 
-function addHTML(){
-  x++
-}
-var element = document.getElementById("newFriend");
-if (x>9){
-    element.innerHTML = "";
+
+// var element = document.getElementById("newFriend");
+// if (x>9){
+//     element.innerHTML = "";
+// }
+function newHtml(){
+document.getElementById("newFriend").innerHTML = new.target;
 }
 // var matchFound = false;
 // var numElements = goodTeams.length;
