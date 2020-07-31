@@ -1,28 +1,28 @@
-// var x
-// x = 9;
+var x
+x = 9;
 function cartFunction()
 {
  window.location = "cart.html";
 }
 
 
-// var element = document.getElementById("newFriend");
-// if (x>9){
-//     element.innerHTML = "";
-// }
-// function newHtml(){
-// document.getElementById("newFriend").innerHTML = "";
-// // }
+var element = document.getElementById("newFriend");
+if (x>9){
+    element.innerHTML = "";
+}
+function newHtml(){
+document.getElementById("newFriend").innerHTML = "";
+}
 // function newHtml(){
 // document.getElementById("newFriend").innerHTML = return;
 // }
+// $('#newFriend').detach();
 
+// var el = $('#newFriend').detach();
 
-var el = $('#newFriend').detach();
-
-$("#open_menu").click(function(){
-    $(this).append(el);
-});
+// $("#open_menu").click(function(){
+//     $(this).append(el);
+// });
 
 
 // var matchFound = false;
