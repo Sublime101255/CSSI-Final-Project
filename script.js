@@ -1,5 +1,13 @@
-var x
-x = 9;
+x =9
+var x;
+  
+  var element = document.getElementById("coolHtml");
+if (x<10){
+    element.innerHTML = "";
+
+
+  
+}
 function cartFunction()
 {
  window.location = "cart.html";
@@ -10,16 +18,17 @@ function cartFunction()
 //   x = 10;
 // }
 
-var element = document.getElementById("coolHtml");
-if (x>9){
-    element.innerHTML = "";
-}
+// var element = document.getElementById("coolHtml");
+// if (x<10){
+//     element.innerHTML = "";
+// }
 
 // function newHtml(){
 // x = 10
 // }
 function newHtml(){
-  x+1;
+  
+  x = 12;
 // document.getElementById("coolHtml").innerHTML = "";
 }
 // $('#newFriend').detach();
